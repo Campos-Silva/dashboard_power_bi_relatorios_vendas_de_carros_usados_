@@ -7,7 +7,9 @@
 
 ![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/carro_variaveis_e.png)
 
-Nesse dashboard analisei e busquei extrair informações importantes de vendas de veículos usados. Para acessar todos os recursos interativos desse Dasboard acesse minha página da Microsoft - Clique [aqui](https://app.powerbi.com/groups/me/reports/204c01b4-3af1-4222-aeed-c54649a8d966/ReportSection).
+Nesse dashboard analisei e busquei extrair informações importantes a respeito de vendas de veículos usados. Os dados originais são do site Kaggle, mas para esse dasboard eu utilizei dados já pre-processados que consta [nesse](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) meu projeto do Github. 
+
+Para acessar todos os recursos interativos desse Dasboard clique [aqui](https://app.powerbi.com/groups/me/reports/204c01b4-3af1-4222-aeed-c54649a8d966/ReportSection) para acessar a minha página da Microsoft.
 
 ## Através desse relatório é possível ver que:
 
@@ -32,13 +34,7 @@ Nesse dashboard analisei e busquei extrair informações importantes de vendas d
 
 3-	O preço do veículo tende a diminuir com a quilometragem atual  veículo.
 
-#Observação: nesse dashboard utilizewi dados já pre-processados oriundos de um projeto que consta no meu Github (clique aqui para acessar). 
-
-
-
-
-
-
+___________
 
 ## Autor:
 
