@@ -1,6 +1,8 @@
 # Dashboard Power BI - Relatório de Vendas de Carros Usados
 
 
+Para acessar o dashboard na minha página da Microsoft acessse: https://app.powerbi.com/groups/me/reports/204c01b4-3af1-4222-aeed-c54649a8d966/ReportSection
+
 Através desse relatório é possível ver que:
 
 
@@ -24,4 +26,18 @@ Página 2:
 2-	Veículos com mais quilometragem por litro de combustível tendem a ter preços mais elevados;
 
 3-	O preço do veículo tende a diminuir com a quilometragem atual  veículo.
+
+## Autor:
+
+<img  src="https://raw.githubusercontent.com/Campos-Silva/Campos-Silva/main/perfil_lucas_andrei_campos_silva.png" width="80" alt="cognitiveclass.ai logo" align="left" /> 
+
+### &nbsp;&nbsp;Lucas Andrei Campos-Siva
+
+<p>
+&nbsp;&nbsp;Cientista de Dados / Business Intelligence / Analista de Dados<br/>
+&nbsp;&nbsp;LinkedIn: https://www.linkedin.com/in/lucas-andrei-campos-silva/<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: andrei.10@hotmail.com<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portifólio de projetos em Data Science: https://github.com/Campos-Silva
+</p>
+
 
