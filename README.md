@@ -1,12 +1,17 @@
-# Dashboard Power BI - Relatório de Vendas de Carros Usados
+![Alt ou título da imagem](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/1_2_juntos.jpg)
 
 
-Para acessar o dashboard na minha página da Microsoft acessse: https://app.powerbi.com/groups/me/reports/204c01b4-3af1-4222-aeed-c54649a8d966/ReportSection
+# Dashboard Power BI: 1 - Relatório de Vendas de Carros Usados
 
-Através desse relatório é possível ver que:
+### Informações sobre o Dashboard
 
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/carro_variaveis_e.png)
 
-Página 1:
+Nesse dashboard analisei e busquei extrair informações importantes de vendas de veículos usados. Para acessar todos os recursos interativos desse Dasboard acesse minha página da Microsoft - Clique [aqui](https://app.powerbi.com/groups/me/reports/204c01b4-3af1-4222-aeed-c54649a8d966/ReportSection).
+
+## Através desse relatório é possível ver que:
+
+### Página 1:
 
 
 1-	Veículos vendidos por concessionárias tendem a ter maior preço médio de revenda do que por distribuidoras e venda por indivíduos;
@@ -18,7 +23,7 @@ Página 1:
 4-	Veículos a com transmissão automática tendem a ter maior preço do que os manuais.
 
 
-Página 2:
+### Página 2:
 
 
 1-	Os preços dos veículos tendem a aumentar com a potência do motor;
@@ -26,6 +31,14 @@ Página 2:
 2-	Veículos com mais quilometragem por litro de combustível tendem a ter preços mais elevados;
 
 3-	O preço do veículo tende a diminuir com a quilometragem atual  veículo.
+
+#Observação: nesse dashboard utilizewi dados já pre-processados oriundos de um projeto que consta no meu Github (clique aqui para acessar). 
+
+
+
+
+
+
 
 ## Autor:
 
