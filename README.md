@@ -1,11 +1,8 @@
-![Alt ou título da imagem](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/1_2_juntos.jpg)
-
-
 # Dashboard Power BI: 1 - Relatório de Vendas de Carros Usados
 
-### Informações sobre o Dashboard
+![Alt ou título da imagem](https://github.com/Campos-Silva/dashboard_power_bi_relatorios_vendas_de_carros_usados_/blob/main/1_2_juntos.jpg)
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/Projeto_1_Precificacao_de_Veiculos_Usados/main/carro_variaveis_e.png)
+### Informações sobre o Dashboard
 
 Nesse dashboard analisei e busquei extrair informações importantes a respeito de vendas de veículos usados. Os dados originais são do site Kaggle, mas para esse dasboard eu utilizei dados já pre-processados que consta [nesse](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python) meu projeto do Github. 
 
